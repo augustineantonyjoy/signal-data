@@ -1,0 +1,4 @@
+raw/
+cleaned/
+*.csv
+.DS_Store
