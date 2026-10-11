@@ -3,3 +3,5 @@ cleaned/
 *.csv
 !/cve_raw.csv
 .DS_Store
+!/cluster_sample_unlabeled.csv
+!/cluster_sample_labels.csv
