@@ -5,3 +5,6 @@ cleaned/
 .DS_Store
 !/cluster_sample_unlabeled.csv
 !/cluster_sample_labels.csv
+!supervised_sample_labeled.csv
+!train_set.csv
+!test_set.csv
